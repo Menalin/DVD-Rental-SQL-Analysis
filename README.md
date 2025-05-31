@@ -1,6 +1,3 @@
-# DVD-Rentals-Assessments
-
-
 # DVD Rental SQL Analysis 📀
 
 This project contains SQL queries and analysis based on the popular [DVD Rental sample database](https://www.postgresqltutorial.com/postgresql-sample-database/). The questions answered here are meant to showcase data analysis and querying skills using PostgreSQL and pgAdmin.
@@ -9,9 +6,22 @@ This project contains SQL queries and analysis based on the popular [DVD Rental 
 
 ## ✅ Questions Answered
 
-1. **What is the most rented movie?**
-2. **Which PG-rated movies were rented the most and how many times?**
-3. **Which movies are offered in both stores at the same time?**
+1. **Which Customers Share The Same Address?**
+2.	**Name of Customer With The Highest Payments?**
+3.	**Which Movie is Most Rented Out?**
+4.	**Which Movies Have Been Rented Out So Far?**
+5.	**Which Movies Has Not Been Rented Out So Far?**
+6.	**Which Customers Has Not Rented Any Movie So far?**
+7.	**Display Each Movie and Number of Times It Got Rented?**
+8.	**Names of Actors and Movies Each Actor Acted In?**
+9.	**Name of Actors That Acted in More Than Twenty Movies?**
+10.	**All Movies Rated “PG” and Number of Times Rented?**
+11.	**Movies Offered for Rent in Store One Only?**
+12.	**Movies Offered for Rent in Store One and Two?**
+13.	**Movies Offered for Rent in Both Stores at The Same Time?**
+14.	**Most Rented Movie in Store One?**
+15.	**Movies Not Offered For Rent in any Stores?**
+
 
 ## 🧰 Tools Used
 
