@@ -1,10 +1,17 @@
 # DVD Rental SQL Analysis 📀
+This project is a showcase of my SQL querying and data analysis skills, built using the [DVD Rental sample database](https://www.postgresqltutorial.com/postgresql-sample-database/) in PostgreSQL. I tackled 15 real-world business questions that explore **customer behavior**, **movie rentals**, **inventory**, and **store-specific performance**.
 
-This project contains SQL queries and analysis based on the popular [DVD Rental sample database](https://www.postgresqltutorial.com/postgresql-sample-database/). The questions answered here are meant to showcase data analysis and querying skills using PostgreSQL and pgAdmin.
+Each question is solved using efficient SQL queries and includes screenshots of results run in pgAdmin. This project demonstrates my ability to extract actionable insights from relational databases using joins, aggregations, filters, and subqueries.
 
-## 📁 Project Structure
+## 🧠 Why This Project?
 
-## ✅ Questions Answered
+Understanding customer activity, rental patterns, and store operations are key to running a data-driven business. This project shows how structured data can answer operational questions and uncover insights that drive better decisions.
+
+If you are looking for a data analyst who can write clean, business-relevant SQL and communicate insights clearly,
+
+Welcome to My Work!
+
+## ❓ Business Questions Answered
 
 1. **Which Customers Share The Same Address?**
 2.	**Name of Customer With The Highest Payments?**
@@ -22,18 +29,18 @@ This project contains SQL queries and analysis based on the popular [DVD Rental 
 14.	**Most Rented Movie in Store One?**
 15.	**Movies Not Offered For Rent in any Stores?**
 
+## 🎯 Skills Demonstrated
 
+- Relational database querying with **PostgreSQL**
+- Using **JOINs**, **GROUP BY**, and **aggregate functions**
+- **Filtering**, **subqueries**, and **CASE statements**
+- Understanding of data modeling concepts in a real-world database
+  
 ## 🧰 Tools Used
 
 - PostgreSQL 15
 - pgAdmin 4
-- SQL (Joins, Aggregations, Filtering)
-
-## 💡 How to Use
-
-1. Clone the repository.
-2. Open the `.sql` files under the `queries/` folder.
-3. Run the queries in your PostgreSQL environment connected to the `dvdrental` database.
+- SQL(query execution & validation)
 
 ## 🖼️ Sample Output
 ![Question 1](https://github.com/user-attachments/assets/2575ade6-ea51-403c-8bc3-4c3618247cfb)
@@ -74,4 +81,4 @@ This project contains SQL queries and analysis based on the popular [DVD Rental 
 - [DVD Rental Database](https://www.postgresqltutorial.com/postgresql-sample-database/)
 
 ---
-Created with 💻 and 📊 by Efemena Oghojafor.
+Created by Efemena Oghojafor.
