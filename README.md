@@ -29,19 +29,6 @@ Welcome to My Work!
 14.	**Most Rented Movie in Store One?**
 15.	**Movies Not Offered For Rent in any Stores?**
 
-## 🎯 Skills Demonstrated
-
-- Relational database querying with **PostgreSQL**
-- Using **JOINs**, **GROUP BY**, and **aggregate functions**
-- **Filtering**, **subqueries**, and **CASE statements**
-- Understanding of data modeling concepts in a real-world database
-  
-## 🧰 Tools Used
-
-- PostgreSQL 15
-- pgAdmin 4
-- SQL(query execution & validation)
-
 ## 🖼️ Sample Output
 ![Question 1](https://github.com/user-attachments/assets/2575ade6-ea51-403c-8bc3-4c3618247cfb)
 
@@ -73,7 +60,18 @@ Welcome to My Work!
 
 ![Question 15](https://github.com/user-attachments/assets/afa57030-5fd2-4e87-8710-b9a2b08cb8c1)
 
+## 🎯 Skills Demonstrated
 
+- Relational database querying with **PostgreSQL**
+- Using **JOINs**, **GROUP BY**, and **aggregate functions**
+- **Filtering**, **subqueries**, and **CASE statements**
+- Understanding of data modeling concepts in a real-world database
+  
+## 🧰 Tools Used
+
+- PostgreSQL 15
+- pgAdmin 4
+- SQL(query execution & validation)
 
 ## 🔗 Resources
 
